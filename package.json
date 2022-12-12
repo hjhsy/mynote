@@ -1,0 +1,17 @@
+{
+  "name": "mynotes",
+  "version": "1.0.0",
+  "author": "reco_luan",
+  "scripts": {
+    "dev": "vuepress dev . --open --host \"localhost\" --port 9999",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "1.9.7",
+    "vuepress-theme-reco": "1.6.16"
+  },
+  "description": "mynotes",
+  "dependencies": {
+    "vuepress-theme-vdoing": "^1.12.8"
+  }
+}
